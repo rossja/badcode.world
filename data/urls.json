@@ -1,0 +1,15 @@
+{
+  "utils": {
+    "ip2country": "https://api.ip2country.info/ip",
+    "randomuser": "https://randomuser.me/api/",
+    "uspopulation": "https://datausa.io/api/data?drilldowns=Nation&measures=Population"
+  },
+  "nasa": {
+    "issloc": "http://api.open-notify.org/iss-now.json",
+    "peopleinspace": "http://api.open-notify.org/astros.json"
+  },
+  "fun": {
+    "randomcat": "https://cataas.com/cat?json=true",
+    "randomjoke": "https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,racist,sexist,explicit"
+  }
+}
